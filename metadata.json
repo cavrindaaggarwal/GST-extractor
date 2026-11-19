@@ -1,0 +1,6 @@
+{
+  "name": "GST Invoice Data Extractor",
+  "description": "A specialised data extraction agent for Indian GST tax invoices. Upload images of tax invoices to extract structured data, validate GSTIN state/checksums, verify tax types, and cross-check totals with absolute precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
